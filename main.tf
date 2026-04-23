@@ -12,7 +12,7 @@ region = "ap-south-1"
 }
 
 resource "aws_s3_bucket" "demo_bucket" {
-bucket = "deevika-bkt"
+bucket = "deevika-bkt-77484"
 }
 
 resource "aws_vpc" "demo_vpc" {
